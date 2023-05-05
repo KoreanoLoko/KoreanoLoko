@@ -107,7 +107,7 @@
 
 <li>
 <a href="https://www.instagram.com/koreano_loko/" target="_blank" rol="noopener noreferrer">
-<img src="https://img.shields.io/badge/twitter:  KoreanoLoko-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/twitter:  KoreanoLoko-%2300acee.svg?color=E4405F&style=for-the-badge&logo=instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
