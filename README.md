@@ -17,8 +17,6 @@
 
 - Web Developer.
 - Structured wiring network. 
-- Frontend Skills.
-- Backend Skills.
 - Personal website [link](https://www.0xabdulkhalid.ml)
 
 <br><br>
